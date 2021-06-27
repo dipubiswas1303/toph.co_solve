@@ -4,12 +4,12 @@ int a[50];
 
 using namespace std;
 
-    /*
-    NAME : DIPU BISWAS
-    JUST CSE 2019 - 2020
-    PROBLEM CODE : Fibonacci Numbers
-    LINK : https://toph.co/p/fibonacci-numbers
-    */
+/**
+NAME : DIPU BISWAS
+JUST CSE 2019 - 2020
+PROBLEM CODE : Fibonacci Numbers
+LINK : https://toph.co/p/fibonacci-numbers
+*/
 int main()
 {
     int n;
